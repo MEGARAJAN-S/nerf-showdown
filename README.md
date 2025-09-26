@@ -1,4 +1,4 @@
-###Project Link : [https://nerf-showdown.vercel.app/]
+# Project Link : [https://nerf-showdown.vercel.app/]
 
 # Nerf Showdown: Real-Time Scoreboard
 
@@ -61,7 +61,7 @@ Add your Firebase config to ```firebase.js```
    ```
 5. Open http://localhost:3000 to view in the browser.
 
-#Usage
+# Usage
 1. Select game mode (2v2 or 3v3).
 
 2. Enter player names in the input fields.
@@ -73,7 +73,7 @@ Add your Firebase config to ```firebase.js```
 5. Click View Scores to see all player scores in a modal overlay.
 
 
-#Contributing
+# Contributing
 Contributions are welcome!
 
 1. Fork the project
