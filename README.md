@@ -1,4 +1,4 @@
-#Project Link : [(https://nerf-showdown.vercel.app/)]
+###Project Link : [https://nerf-showdown.vercel.app/]
 
 # Nerf Showdown: Real-Time Scoreboard
 
